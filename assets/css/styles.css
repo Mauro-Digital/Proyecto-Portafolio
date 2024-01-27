@@ -1,15 +1,15 @@
 
 :root{
-    --color-principal: #FFFFFF;
+    --color-principal: #24385B;
     --color-secundary: #0A8ECD;
     
     --color-background: #121F3D;
     --color-transparent: transparent;
 
     --color-icons: #888;
-    --color-titles: #222222;
+    --color-titles: #e5e6e7;
     --color-subtitle: #888;
-    --color-text: #555;
+    --color-text: #0A8ECD;
 
     --color-border-reviews: #e5e6e7;
     --color-company: #a5a6a7;
