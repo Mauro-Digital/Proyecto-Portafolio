@@ -971,7 +971,7 @@ body{
 }
 
 .portfolio__link:hover{ /*PARA CAMBIAR DE COLOR CUANDO EL CURSOR PASE POR ENCIMA */
-    color: var(--color-secundary);
+    color: var(--color-titles);
     text-shadow: 0 0 1px rgba(0, 0, 0, 0.25);
 }
 
